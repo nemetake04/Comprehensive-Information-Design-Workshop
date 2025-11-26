@@ -51,6 +51,9 @@ project-root/
 │   └──  DMX_serial.py   
 ├── arduino/ <br>
 │   └──  DMX.ino    
+├── test/ <br>
+│   ├──  DMX_test1.py  
+│   └──  DMX_test2.py  
 └── README.md <br>
 
 
